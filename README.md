@@ -1,3 +1,5 @@
+Used here: https://wwww.yogaclass.ch
+
 # Django Filter Example
 
 Example used in the blog post [How to Filter QuerySets Dynamically](https://simpleisbetterthancomplex.com/tutorial/2016/11/28/how-to-filter-querysets-dynamically.html)
